@@ -1,0 +1,38 @@
+body {
+  background-color: #808080;
+
+} 
+Body {  
+  font-family: Calibri, Helvetica, sans-serif;  
+}  
+button {   
+       background-color: #2c2f33;   
+       width: 50%;  
+        color: Grey;   
+        padding: 15px;   
+        margin: 10px 100px;   
+        background-color: #EAF6F6;;   
+        cursor: pointer;   
+         }   
+ form {   
+        border: 10px solid #f1f1f1; 
+  background-color: #EAF6F6;
+		
+    }   
+ input[type=text], input[type=password] {   
+        width: 50%;   
+        margin: 8px 20px;  
+        padding: 12px 20px;   
+        display: inline-block;   
+        border: 2px solid black;   
+        box-sizing: border-box;   
+    }  
+ button:hover {   
+        opacity: 0.7;   
+    }   
+
+        
+     
+  
+    }   
+</style> ip
